@@ -2,4 +2,6 @@ section article{
     background: red;
     height: 200px;
     width: 200px;
+    margin: 20px;
+    float: left;
 }
